@@ -17,6 +17,7 @@
 # attributes"
 # 9. Removed extraneous and unnecessary </img> closing tags for consistency
 # 10. Added id attribute "search-engine-optimization" to <div class="search-engine-optimization">
+# 11. Re-organized CSS style file to group together class selectors
 
 # Screenshot
 
