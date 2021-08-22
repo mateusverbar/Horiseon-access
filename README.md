@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor output
 
 # Description
 # List of changes

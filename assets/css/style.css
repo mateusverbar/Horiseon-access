@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+/*Re-organized class selectors in a logical way so that selectors targetting a general class are grouped together */
+
 body {
     background-color: #d9dcd6;
 }
