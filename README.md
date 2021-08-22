@@ -20,5 +20,7 @@
 # 11. Re-organized CSS style file to group together class selectors
 
 # Screenshot
+# ![IMG_0430](https://user-images.githubusercontent.com/87964825/130340296-507650b8-94ea-45e0-af33-0be4f9f983ff.jpg)
 
 # Link to deployed application
+# https://mateusverbar.github.io/Horiseon-access/
