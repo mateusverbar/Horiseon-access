@@ -16,6 +16,7 @@
 # 8. Added "alt" text to all img elements to meet acceptance criterion "accessible alt  
 # attributes"
 # 9. Removed extraneous and unnecessary </img> closing tags for consistency
+# 10. Added id attribute "search-engine-optimization" to <div class="search-engine-optimization">
 
 # Screenshot
 
